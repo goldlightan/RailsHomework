@@ -26,7 +26,7 @@ end
 
 arr = ["0","1","2"]
 
-puts "Welcom to play Rock Paper Scissors"
+puts "Welcome to play Rock Paper Scissors"
 
 begin
 	puts "please input a number"
